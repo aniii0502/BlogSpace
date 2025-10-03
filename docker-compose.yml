@@ -1,0 +1,23 @@
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: blogspace-postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: YourStrongPassword
+      POSTGRES_DB: BlogSpaceDb
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - blogspace-network
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+
+networks:
+  blogspace-network:
+    driver: bridge

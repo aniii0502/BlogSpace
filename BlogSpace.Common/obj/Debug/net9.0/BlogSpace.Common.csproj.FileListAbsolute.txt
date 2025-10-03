@@ -1,0 +1,12 @@
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\bin\Debug\net9.0\BlogSpace.Common.deps.json
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\bin\Debug\net9.0\BlogSpace.Common.dll
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\bin\Debug\net9.0\BlogSpace.Common.pdb
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\obj\Debug\net9.0\BlogSpace.Common.csproj.AssemblyReference.cache
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\obj\Debug\net9.0\BlogSpace.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\obj\Debug\net9.0\BlogSpace.Common.AssemblyInfoInputs.cache
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\obj\Debug\net9.0\BlogSpace.Common.AssemblyInfo.cs
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\obj\Debug\net9.0\BlogSpace.Common.csproj.CoreCompileInputs.cache
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\obj\Debug\net9.0\BlogSpace.Common.dll
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\obj\Debug\net9.0\refint\BlogSpace.Common.dll
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\obj\Debug\net9.0\BlogSpace.Common.pdb
+C:\Users\akkum\Desktop\Code\BlogSpace\BlogSpace.Common\obj\Debug\net9.0\ref\BlogSpace.Common.dll
